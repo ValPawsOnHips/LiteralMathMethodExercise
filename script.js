@@ -22,4 +22,4 @@ console.log(reindeers.replaceAll(` `, `_`)); // Reindeers_are_better_than_people
 
 console.log(Math.sqrt(2)); // 1.4142135623730951
 
-let newRandomNumber = Math.floor(Math.random() * 16 + 7);
+let newRandomNumber = Math.floor(Math.random() * 17 + 7);
